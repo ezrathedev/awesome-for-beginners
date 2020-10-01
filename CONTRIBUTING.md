@@ -23,3 +23,5 @@ Please ensure your pull request adheres to the following guidelines:
 Thank you for your suggestions!
 
 (This file was partially copied from [awesome-speaking](https://github.com/matteofigus/awesome-speaking))
+- [ezrathedev](https://github.io/ezrathedev/awesome-for-beginners)
+
